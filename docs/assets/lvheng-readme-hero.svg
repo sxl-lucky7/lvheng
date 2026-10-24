@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#173E36"/><stop offset="1" stop-color="#24584A"/></linearGradient>
+    <linearGradient id="shine" x1="950" y1="0" x2="1050" y2="340" gradientUnits="userSpaceOnUse"><stop stop-color="#DCE6BF" stop-opacity=".2"/><stop offset="1" stop-color="#DCE6BF" stop-opacity=".02"/></linearGradient>
+  </defs>
+  <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
+  <path d="M785 0h495v340H965Z" fill="url(#shine)"/>
+  <circle cx="1080" cy="168" r="115" stroke="#B1C8A2" stroke-opacity=".22"/>
+  <circle cx="1080" cy="168" r="93" stroke="#B1C8A2" stroke-opacity=".25" stroke-dasharray="3 8"/>
+  <g stroke="#C9D8AC" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="62" y="62" width="66" height="66" rx="16" stroke-opacity=".8"/>
+    <path d="M95 75v36m-13 5h26M76 86h38M81 86l-9 18h18Zm28 0-9 18h18Z"/>
+    <path d="M1080 95v145m-38 8h76m-60-14h44m-89-101h134m-114 0-25 55h50Zm94 0-25 55h50Z" stroke-opacity=".8"/>
+    <path d="M1008 188c11 18 39 18 50 0m44 0c11 18 39 18 50 0" fill="#B1C8A2" fill-opacity=".12" stroke-opacity=".8"/>
+    <circle cx="1080" cy="100" r="5" fill="#C9D8AC" stroke="none"/>
+  </g>
+  <g font-family="'Microsoft YaHei','PingFang SC','Segoe UI',sans-serif">
+    <text x="148" y="104" font-size="40" font-weight="600" letter-spacing="8" fill="#F2F5EA">律衡</text>
+    <text x="150" y="126" font-size="10" letter-spacing="3.6" fill="#BCD0B1">LEX &amp; EVIDENCE</text>
+    <text x="63" y="187" font-size="31" font-weight="500" letter-spacing="2" fill="#F3F5EB">合同证据审查 Agent 工作平台</text>
+    <text x="65" y="226" font-size="16" letter-spacing="1.2" fill="#C0D0BC">让繁复的材料，成为清晰的判断。</text>
+    <rect x="65" y="261" width="126" height="28" rx="14" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="86" y="280" font-size="11" fill="#CEDBBD">Evidence First</text>
+    <rect x="202" y="261" width="142" height="28" rx="14" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="222" y="280" font-size="11" fill="#CEDBBD">Human in the Loop</text>
+    <rect x="355" y="261" width="132" height="28" rx="14" fill="#FFFFFF" fill-opacity=".07" stroke="#FFFFFF" stroke-opacity=".12"/>
+    <text x="376" y="280" font-size="11" fill="#CEDBBD">Agent Runtime</text>
+    <text x="1063" y="303" font-size="10" letter-spacing="5" fill="#ABC39C">审慎 · 可追溯</text>
+  </g>
+</svg>
